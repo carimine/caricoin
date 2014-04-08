@@ -1,0 +1,4 @@
+caricoin
+========
+
+Caricoin Digital Currency
